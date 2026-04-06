@@ -1,4 +1,4 @@
-# 📊 EduAnalytic — Academic Performance Dashboard
+# 📊 EduAnalytic - Academic Performance Dashboard
 
 > A React-based interactive dashboard that transforms raw academic data into clear, meaningful insights for students, faculty, and department heads.
 
@@ -174,9 +174,7 @@ The dashboard uses a hardcoded JSON dataset embedded in `App.jsx` representing:
 ## 👨‍💻 Author
 
 **Krishna**
-Registration No: 24BCE0592
-Course: Web Programming (BCSE203E)
-Vellore Institute of Technology
+
 
 ---
 
